@@ -1,4 +1,4 @@
-# Excel-Projects
+# Excel
 
 Data analysis with Excel
 * Data Validation
